@@ -329,6 +329,9 @@ div.col {
 .images-third-row {
   display: flex;
   gap: 75px;
+  border: 2px solid black;
+  border-radius: 5px;
+  padding: 20px;
 }
 
 .images-third-row img {
