@@ -302,9 +302,9 @@ div.col {
   display: flex;
   flex-direction: column;
   align-items: center;
-  height: 500px;
+  height: 250px;
   justify-content: center;
-  gap: 30px;
+  gap: 10px;
 }
 
 .images-first-row {
@@ -328,10 +328,7 @@ div.col {
 
 .images-third-row {
   display: flex;
-  gap: 47px;
-  border: 3px solid black;
-  border-radius: 5px;
-  padding: 20px;
+  gap: 75px;
 }
 
 .images-third-row img {
